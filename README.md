@@ -45,7 +45,7 @@ Blank, `NaN`, or non-finite values (including `-inf`) should be treated as **una
 
 ## 5. Measurement setup
 
-Indoor VNA-based measurements were performed over 26–30 GHz with a receiver scanning an angular arc approximately 2.5 m from the reflector. The dataset covers a metal plate and IMST/TMYTEK passive reflective surfaces under nominal and non-nominal transmitter incidence (0°, −15°, or −30°, depending on the case). Absorbers were used to reduce environmental reflections. See the associated publication for the full setup and measurement procedure.
+Indoor VNA-based measurements were performed over 26–30 GHz with a receiver scanning an angular arc approximately 2.5 m from the reflector. The dataset covers a metal plate and IMST/TMYTEK passive reflectors under nominal and non-nominal transmitter incidence (0°, −15°, or −30°, depending on the case). Absorbers were used to reduce environmental reflections.
 
 ## 6. Related publication and citation
 
