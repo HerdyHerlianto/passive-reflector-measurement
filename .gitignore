@@ -1,0 +1,23 @@
+# MATLAB autosave
+*.asv
+*.m~
+
+# MATLAB generated
+slprj/
+codegen/
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# macOS metadata
+.DS_Store
+__MACOSX/
+._*
+
+# Windows
+Thumbs.db
+
+# VS Code
+.vscode/
