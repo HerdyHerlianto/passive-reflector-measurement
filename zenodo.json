@@ -1,0 +1,19 @@
+{
+  "title": "Passive Reflector Measurement Dataset",
+  "description": "Angular reflection measurements of passive reflectors in the 26–30 GHz frequency range under nominal and non-nominal incidence. The repository contains CSV files and a README describing the measurement setup, dataset schema, and usage. The measured results are normalized to the peak at each frequency.",
+  "creators": [
+    {
+      "name": "Herlianto, Herdy",
+      "affiliation": "Fraunhofer Heinrich Hertz Institute (HHI)"
+    }
+  ],
+  "keywords": [
+    "passive reflectors",
+    "millimeter wave",
+    "reflection pattern",
+    "measurement dataset",
+    "non-nominal incidence"
+  ],
+  "upload_type": "dataset",
+  "access_right": "open"
+}
