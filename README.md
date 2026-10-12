@@ -37,11 +37,11 @@ In filenames, `m` preceding an angle denotes a negative value (e.g., `incm30` = 
 | `meas_30_ghz` | Normalized measured magnitude at 30 GHz | dB |
 | `sim_28_ghz` | Normalized simulated magnitude at 28 GHz | dB |
 
-Normalization is performed separately for each frequency/pattern, so values describe relative angular levels, not absolute received power or cross-frequency peak differences.
+Normalization is performed separately for each frequency/pattern, so values describe relative angular levels, not absolute received power.
 
 ## 4. Missing values
 
-Blank, `NaN`, or non-finite values (including `-inf`) should be treated as **unavailable data at that angle**, not as zero-valued measurements. Readers should exclude these entries from analysis as appropriate. The original CSV values are left unchanged.
+Blank, `NaN`, or non-finite values (including `-inf`) should be treated as **unavailable data at that angle**, not as zero-valued measurements. Readers should exclude these entries from analysis as appropriate. 
 
 ## 5. Measurement setup
 
